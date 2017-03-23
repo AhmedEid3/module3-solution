@@ -5,6 +5,13 @@ input[type="text"] {
   width: 200px;
   float: left;
 }
+.clear{
+  clear: both;
+}
+.error{
+  color: red;
+  font-size: 20px;
+}
 .narrow-button {
   float: left;
   margin-left: 10px;
